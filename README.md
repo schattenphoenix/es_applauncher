@@ -1,11 +1,8 @@
 # ES Applauncher
 This is a small tool that mimics an emulator on android in order to allow apps to be listed inside [ES-DE]([https://pages.github.com/](https://gitlab.com/es-de/emulationstation-de)https://gitlab.com/es-de/emulationstation-de).
 
-## Major changes in v2!
-- Now needs to be pointed to ROMs
-- Will create needed directories
-- Will also create icons for you to move
-- Can mark games with the checkbox
+## Make sure to read the release notes!
+They contain info about breaking changes, which might occur any time!
 
 ## Instructions
 - Add the `.xml` files to `ES-DE/custom_systems/` (or integrate the content if already existing) to allow the custom system to show up
