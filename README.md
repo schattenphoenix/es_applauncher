@@ -8,8 +8,7 @@ They contain info about breaking changes, which might occur any time!
 - Add the `.xml` files to `ES-DE/custom_systems/` (or integrate the content if already existing) to allow the custom system to show up
 - Install the `es_launcher.apk`
 - Run the `es_launcher.apk`, it should show a list of all your apps.
-- Tap apps to disable / enable them (they wont show up in ES when greyed out)
-- Tap checkboxes to mark them as games
+- Tap checkboxes to mark them as games or disable
 - Long press apps to change their name (in case you have multiple with the same name, like Citra and Citra MMJ)
 - Press the `save` icon in the top right and find the `ROMs` directory, give permission and confirm
 - It should have create the needed folders and a file per app you have installed in `applauncher_apps` or `applauncher_games`
