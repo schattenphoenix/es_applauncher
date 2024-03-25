@@ -21,3 +21,16 @@ This is a small tool that mimics an emulator on android in order to allow apps t
 - The new systems should show up
 - Select one, it should open the es_launcher which then will run your app, so it should only shortly pop up
 - Optionally move all icons from `applauncher_apps` or `applauncher_games` to `ES-DE/downloaded_media/android[apps|games]/covers`
+
+## This is complicated for updates when I just installed a new app!
+To update the applist, just launch ES Launcher from the app selection and select and deselect what you want and save again.
+It should remove all deselected apps and put everything in the right folder, no need to follow all steps again.
+
+## But xyz doesn't work!
+Create an issue, I might look into it when I have time.
+
+## Can I buy you a coffee?
+If you happen to come to Berlin (Germany), sure, hit me up.
+Otherwise I suggest you support ES-DE instead.
+Leon is a great dev and invested a lot of work, I just created a small dirty app to help with one small shortcoming that will be fixed later down the line.
+He should have all the coffee he can!
