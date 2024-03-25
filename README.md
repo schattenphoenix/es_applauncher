@@ -34,3 +34,10 @@ If you happen to come to Berlin (Germany), sure, hit me up.
 Otherwise I suggest you support ES-DE instead.
 Leon is a great dev and invested a lot of work, I just created a small dirty app to help with one small shortcoming that will be fixed later down the line.
 He should have all the coffee he can!
+
+## So much text! TL;DR?
+- Press on app name: Disable/Enable
+- Long press on app name: Change name
+- Checkbox: Move to games
+- Save button: Save changes
+- You should still read the thing, that's what it's for!
