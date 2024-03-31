@@ -5,18 +5,18 @@ This is a small tool that mimics an emulator on android in order to allow apps t
 They contain info about breaking changes, which might occur any time!
 
 ## Instructions
-- Add the `.xml` files to `ES-DE/custom_systems/` (or integrate the content if already existing) to allow the custom system to show up
+- Add the `es_systems.xml` and `es_find_rules.xml` files to `ES-DE/custom_systems/` (or integrate the content if already existing) to allow the custom system to show up
 - Install the `es_launcher.apk`
 - Run the `es_launcher.apk`, it should show a list of all your apps.
 - Tap checkboxes to mark them as games or disable
 - Long press apps to change their name (in case you have multiple with the same name, like Citra and Citra MMJ)
 - Press the `save` icon in the top right and find the `ROMs` directory, give permission and confirm
-- It should have create the needed folders and a file per app you have installed in `applauncher_apps` or `applauncher_games`
+- It should have create the needed folders and a file per app you have installed in `androidgames` or `androidapps`
 - Kill the `es_launcher` and `ES-DE`
 - Restart `ES-DE`
 - The new systems should show up
 - Select one, it should open the es_launcher which then will run your app, so it should only shortly pop up
-- Optionally move all icons from `applauncher_apps` or `applauncher_games` to `ES-DE/downloaded_media/android[apps|games]/covers`
+- Optional: Use the icon button in the top right in order to save the icon files. It needs to be pointed to your media directory (default: `ES-DE/downloaded_media`)
 
 ## This is complicated for updates when I just installed a new app!
 To update the applist, just launch ES Launcher from the app selection and select and deselect what you want and save again.
