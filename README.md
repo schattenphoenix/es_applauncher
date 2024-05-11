@@ -5,6 +5,7 @@ This is a small tool that mimics an emulator on android in order to allow apps t
 They contain info about breaking changes, which might occur any time!
 
 ## Instructions
+- **If you are running ES-DE version 3.0.2 you need to skip the first step! They will be removed later!**
 - Add the `es_systems.xml` and `es_find_rules.xml` files to `ES-DE/custom_systems/` (or integrate the content if already existing) to allow the custom system to show up
 - Install the `es_launcher.apk`
 - Run the `es_launcher.apk`, it should show a list of all your apps.
