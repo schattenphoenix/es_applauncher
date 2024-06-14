@@ -5,11 +5,9 @@ This is a small tool that mimics an emulator on android in order to allow apps t
 They contain info about breaking changes, which might occur any time!
 
 ## Instructions
-- **If you are running ES-DE version 3.0.2 you need to skip the first step! They will be removed later!**
-- Add the `es_systems.xml` and `es_find_rules.xml` files to `ES-DE/custom_systems/` (or integrate the content if already existing) to allow the custom system to show up
 - Install the `es_launcher.apk`
-- Run the `es_launcher.apk`, it should show a list of all your apps.
-- Tap checkboxes to mark them as games or disable
+- Run the `es_launcher`, it should show a list of all your apps.
+- Tap checkboxes to mark them as games, emulator or disable
 - Long press apps to change their name (in case you have multiple with the same name, like Citra and Citra MMJ)
 - Press the `save` icon in the top right and find the `ROMs` directory, give permission and confirm
 - It should have create the needed folders and a file per app you have installed in `androidgames` or `androidapps`
