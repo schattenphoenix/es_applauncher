@@ -1,3 +1,11 @@
+# OBSOLETE!!!
+ES-DE just today 15th of July 2025 dropped with their import functionality based on this app. 
+This application is thus not required anymore. 
+I'm glad I could help a few of you with this application, it was a cool run and I'm grateful for the support from everyone 
+
+Have a great day!
+
+
 # ES Applauncher
 This is a small tool that mimics an emulator on android in order to allow apps to be listed inside [ES-DE]([https://pages.github.com/](https://gitlab.com/es-de/emulationstation-de)https://gitlab.com/es-de/emulationstation-de).
 
